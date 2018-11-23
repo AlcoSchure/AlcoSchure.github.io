@@ -1,0 +1,48 @@
+body {
+font-family: sans-serif;
+}
+ul {
+  padding:px;
+  background-color: blue;
+  color: aqua;
+border-radius: 10px;
+}
+ul {
+border-style: solid;
+border-width: 1px;
+padding: 0.5em;
+border-radius: 0.5em;
+background-color: 0,5em;
+}
+ul li {
+list-style-type: none;
+display: inline;
+margin-right: 0,5em;
+margin-left: 0,5em;
+}
+ul li a {
+  color: aqua;
+}
+ul li {
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+list-style-type: none;
+display: inline;
+margin-right: 0.5em;
+margin-left: 0.5em;
+}
+p {
+  color: white;
+}
+h1
+{
+  color:white;
+}
+h2
+{
+  color:white;
+}
+li
+{color: white;
+}
